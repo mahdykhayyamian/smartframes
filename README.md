@@ -5,4 +5,4 @@ Javascript layout library that allows for flexible rendering of content on web p
 npm run build
 
 # demo
-http://lina.run/demo/smartframes
+https://www.lina.run/demo/smartframes
